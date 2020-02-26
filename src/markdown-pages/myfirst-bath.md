@@ -13,4 +13,4 @@ Here's a link to why you should get a Maltese Terrier breed.
 
 > Learn how to clean a Maltese
 
-<iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media" src="https://www.youtube.com/watch?v=8HYtZCph9EY" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=8HYtZCph9EY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
